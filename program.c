@@ -10,3 +10,7 @@ develop()
 {
 //Sample code
 }
+feature1()
+{
+//Sample code for feature1
+}
